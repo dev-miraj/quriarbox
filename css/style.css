@@ -82,7 +82,7 @@ nav{
 .banner__main{
   margin: auto;
   align-items: center;
-  column-gap: 20px;
+  column-gap: 25px;
 }
 .banner__content h1{
   width: 468px;
@@ -696,6 +696,7 @@ nav{
    font-size: 16px;
    font-weight: 600;
    margin-top: 10px;
+   color: #9291A1;
 }
 .footer__middle{
     background-color: #2F2E41;

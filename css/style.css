@@ -21,7 +21,6 @@ body{
 .container{
  max-width: 1320px;
  margin: auto;
- /* display: flex; */
 }
 .flex{
     display: flex;
@@ -40,13 +39,12 @@ nav{
 .nav__content{
     width: 50%;
     column-gap: 45px;
-    /* column-gap: 25px; */
+
 }
 
 .nav__content ul{
     column-gap: 25px;
     align-items: center;
-    /* padding: 31px; */
 }
 .nav__content ul :hover{
   color: #F95C19;
@@ -57,7 +55,6 @@ nav{
     height: 49px;
     background-color: #FFEDC9;
     color: #FFAF0F;
-    /* padding: 13px 14px; */
     border-radius: 5px;
     align-items: center;
     justify-content: center;
@@ -67,8 +64,6 @@ nav{
    font-size: 20px;
    font-weight: bold;
    background-color: #FFE4D9;
-   /* width: 142px;
-   height: 49px; */
    color:#F95C19 ;
    padding: 12px 20px;
    border-radius: 5px;
@@ -82,8 +77,10 @@ nav{
 #banner{
     padding-top: 170px;
     padding-bottom: 168px;
+    /* padding-left: 100px; */
 }
 .banner__main{
+  margin: auto;
   align-items: center;
   column-gap: 20px;
 }
@@ -724,11 +721,11 @@ nav{
 }
 .services__info{
     padding-left: 800px;
-    margin-top: -98px;
+    margin-top: -113px;
 }
 .customer__car{
     padding-left: 1021px;
-    margin-top: -101px;
+    margin-top: -105px;
 }
 .other__links li{
    margin-bottom: 16px;
